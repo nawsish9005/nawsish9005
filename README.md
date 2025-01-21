@@ -47,11 +47,11 @@ Hi! I'm Nawsish, a passionate software developer with experience in building sca
 ## Contact Me
 
 💼 Connect with me:
-- [GitHub](https://github.com/username)
-- [LinkedIn](https://linkedin.com/in/username)
-- 📧 Email: your-email@example.com
+- [GitHub](https://github.com/nawsish9005)
+- [LinkedIn](https://www.linkedin.com/in/nawsish-ahmed-248466122/)
+- 📧 Email: nawsish2018@gmail.com
 
 ---
 
 ### Fun Fact
-🌍 I enjoy traveling and have visited over 10 countries while trying out different cuisines!
+🌍 I enjoy cooking and traveling while trying out different cuisines!
