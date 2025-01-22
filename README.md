@@ -12,6 +12,7 @@ Hi! I'm Nawsish, a passionate software developer with experience in building sca
 - Programming Languages: C#, Java, PHP, SQL
 - Frameworks: ASP.NET Core, MVC, Angular
 - Databases: SQL Server, MySQL, Oracle
+- Docker
 
 ---
 
