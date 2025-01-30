@@ -52,7 +52,7 @@ Hi! I'm Nawsish, a passionate software developer with experience in building sca
 - [LinkedIn](https://www.linkedin.com/in/nawsish-ahmed-248466122/)
 - 📧 Email: nawsish2018@gmail.com
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawsish9005&show_icons=true&locale=en&layout=compact" alt="nawsish9005" /></p>
 
 ### Fun Fact
 🌍 I enjoy cooking and traveling while trying out different cuisines!
