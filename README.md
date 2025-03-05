@@ -30,6 +30,7 @@ Hi! I'm Nawsish, a passionate software developer with experience in building sca
 🔗 Check out my work:
 - **[JWT Token](https://github.com/nawsish9005/JwtAuth.git):** Brief description of the project.
 - **[Visa Process](https://github.com/nawsish9005/quwetVisa.git):** Brief description of the project.
+- **[E-Commerce Project](https://github.com/nawsish9005/BookShop.git):** Brief description of the project.
 
 ---
 
