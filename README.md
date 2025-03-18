@@ -1,8 +1,9 @@
 # Hello, I'm Nawsish Ahmed! 👋
 
 🎯 **Developer | Problem Solver | Technology Enthusiast**
-![trophy](https://github.com/ryo-ma/github-profile-trophy)
 ---
+
+[trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 
