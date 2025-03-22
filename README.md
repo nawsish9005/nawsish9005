@@ -2,9 +2,6 @@
 
 🎯 **Developer | Problem Solver | Technology Enthusiast**
 ---
-
-   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## About Me
 
 Hi! I'm Nawsish, a passionate software developer with experience in building scalable web applications. I love solving real-world problems with code and continuously learning new technologies.
