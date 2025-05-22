@@ -29,6 +29,9 @@ Hi! I'm Nawsish, a passionate software developer with experience in building sca
 - **[JWT Token](https://github.com/nawsish9005/JwtAuth.git):** Brief description of the project.
 - **[Visa Process](https://github.com/nawsish9005/quwetVisa.git):** Brief description of the project.
 - **[E-Commerce Project](https://github.com/nawsish9005/BookShop.git):** Brief description of the project.
+- **[Pos System](https://github.com/nawsish9005/POS_System.git):** Brief description of the project.
+- **[Hospital Management System](https://github.com/nawsish9005/Hospital_MS.git):** Brief description of the project.
+- **[Event Management System](https://github.com/nawsish9005/EventManagement.git):** Brief description of the project.
 
 ---
 
